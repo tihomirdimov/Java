@@ -1,6 +1,3 @@
-/**
- * Created by Tihomir on 15.3.2016 г..
- */
 public class Problem03AssignVariables {
     public static void main(String[] args) {
         boolean Bool1 = false;

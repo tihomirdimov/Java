@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce242f63-bf56-417b-98c6-b17f4bc3ed55" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/01.JavaFundamentals/01.Homeworks/03.JavaStreams/resources/my-copied-picture.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/01.JavaFundamentals/01.Homeworks/03.JavaStreams/resources/picture.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem01ExtractEmails.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem01FilterArray.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem01PlayWithIntellijIdea.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem01RectangleArea.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem01SortArrayOfNumbers.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem01SumLines.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem02AllCapitals.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem02CountSubstringOccurrences.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem02EmptyProject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem02SequencesOfEqualStrings.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem02SortArrayWithStreamAPI.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem02TriangleArea.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem03AssignVariables.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem03CountCharacterTypes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem03CountSpecifiedWord.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem03FormattingNumbers.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem03LargestSequenceOfEqualStrings.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem04CalculateExpression.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem04CopyJpgFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem04CountAllWords.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem04LongestIncreasingSequence.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem04PrintCharacters.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem05BaseTenToBaseSeven.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem05CountAllWords.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem05ExtractWords.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem05PrintACharacterTriangle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem05SaveAnArrayListOfDoubles.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem06BaseSevenToBaseTen.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem06CountSpecifiedWord.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem06SaveACustomObjectInAFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem06StartsAndEndsWithCapitalLetter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem06SumNumbersFromOneToN.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem07CombineListsOfLetters.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem07CreateZipArchive.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem07GhettoNumeralSystem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem07MagicExchangeableWords.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem07RandomizeNumbersFromNToM.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem08CSVDatabase.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem08ExtractAllUniqueWords.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem08GetAverage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem08OddOrEvenPairs.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem09HitTheTarget.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem09MostFrequentWord.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem10CardsFrequencies.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem10CharacterMultiplier.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem11GetFirstOddOrEvenElements.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem11ImplementRecursiveBinarySearch.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/Problem12CalculateNFactorial.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/01.JavaFundamentals/01.Homeworks/03.JavaStreams/resources/count-chars.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/01.JavaFundamentals/01.Homeworks/03.JavaStreams/resources/lines.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java/01.JavaFundamentals/01.Homeworks/03.JavaStreams/resources/words.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/.idea/dictionaries/Tihomir_Dimov.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/06TextProcessingAndRegexAPIHW/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java/Exam20151004Problem01DragonSharp.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/01.JavaFundamentals/01.Homeworks/01.IntroductionToJava/Problem01PlayWithIntellijIdea.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/01.Homeworks/01.IntroductionToJava/Problem01PlayWithIntellijIdea.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/01.JavaFundamentals/01.Homeworks/01.IntroductionToJava/Problem03AssignVariables.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/01.Homeworks/01.IntroductionToJava/Problem03AssignVariables.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/00ExamProblems.iml" afterPath="$PROJECT_DIR$/Java.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20151004Problem02DragonAccounting.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20151004Problem02DragonAccounting.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20151004Problem03DragonTrap.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20151004Problem03DragonTrap.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20151004Problem04DragonArmy.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20151004Problem04DragonArmy.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20151026Problem01TinySporebat.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20151026Problem01TinySporebat.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20151026Problem02WeirdScript.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20151026Problem02WeirdScript.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20151026Problem03TheHeiganDance.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20151026Problem03TheHeiganDance.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20151026Problem04LegendaryFarming$1.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20151026Problem04LegendaryFarming$1.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20151026Problem04LegendaryFarming.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20151026Problem04LegendaryFarming.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20151115Problem01SoftuniPalatkaConf.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20151115Problem01SoftuniPalatkaConf.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20151115Problem02SoftuniDefenceSystem.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20151115Problem02SoftuniDefenceSystem.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20151115Problem03SRubiksMatrix.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20151115Problem03SRubiksMatrix.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20151115Problem04LogParser.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20151115Problem04LogParser.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160228Problem01CollectResources.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160228Problem01CollectResources.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160228Problem02ParkingSystem.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160228Problem02ParkingSystem.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160228Problem03SoftuniNumerals.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160228Problem03SoftuniNumerals.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160228Problem04Events.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160228Problem04Events.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160313Problem01ArrangeIntegers.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160313Problem01ArrangeIntegers.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160313Problem02Monopoly.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160313Problem02Monopoly.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160313Problem03BasicMarkupLanguage.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160313Problem03BasicMarkupLanguage.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160313Problem04ChampionsLeague$1.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160313Problem04ChampionsLeague$1.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160313Problem04ChampionsLeague.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160313Problem04ChampionsLeague.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160423Problem01MelrahShake.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160423Problem01MelrahShake.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160423Problem02Crossfire.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160423Problem02Crossfire.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160423Problem03CriticalBreakpoint.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160423Problem03CriticalBreakpoint.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160423Problem04GUnit.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160423Problem04GUnit.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160508Problem01.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160508Problem01.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160508Problem02.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160508Problem02.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160508Problem03.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160508Problem03.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/out/production/00ExamProblems/Exam20160508Problem04.class" afterPath="$PROJECT_DIR$/out/production/Java/Exam20160508Problem04.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20151004Problem01DragonSharp.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151004/Exam20151004Problem01DragonSharp.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20151004Problem02DragonAccounting.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151004/Exam20151004Problem02DragonAccounting.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20151004Problem03DragonTrap.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151004/Exam20151004Problem03DragonTrap.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20151004Problem04DragonArmy.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151004/Exam20151004Problem04DragonArmy.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20151026Problem01TinySporebat.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151026/Exam20151026Problem01TinySporebat.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20151026Problem02WeirdScript.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151026/Exam20151026Problem02WeirdScript.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20151026Problem03TheHeiganDance.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151026/Exam20151026Problem03TheHeiganDance.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20151026Problem04LegendaryFarming.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151026/Exam20151026Problem04LegendaryFarming.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20151115Problem01SoftuniPalatkaConf.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151115/Exam20151115Problem01SoftuniPalatkaConf.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20151115Problem02SoftuniDefenceSystem.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151115/Exam20151115Problem02SoftuniDefenceSystem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20151115Problem03SRubiksMatrix.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151115/Exam20151115Problem03SRubiksMatrix.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20151115Problem04LogParser.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151115/Exam20151115Problem04LogParser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160228Problem01CollectResources.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160228/Exam20160228Problem01CollectResources.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160228Problem02ParkingSystem.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160228/Exam20160228Problem02ParkingSystem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160228Problem03SoftuniNumerals.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160228/Exam20160228Problem03SoftuniNumerals.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160228Problem04Events.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160228/Exam20160228Problem04Events.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160313Problem01ArrangeIntegers.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160313/Exam20160313Problem01ArrangeIntegers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160313Problem02Monopoly.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160313/Exam20160313Problem02Monopoly.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160313Problem03BasicMarkupLanguage.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160313/Exam20160313Problem03BasicMarkupLanguage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160313Problem04ChampionsLeague.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160313/Exam20160313Problem04ChampionsLeague.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160423Problem01MelrahShake.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160423/Exam20160423Problem01MelrahShake.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160423Problem02Crossfire.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160423/Exam20160423Problem02Crossfire.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160423Problem03CriticalBreakpoint.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160423/Exam20160423Problem03CriticalBreakpoint.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160423Problem04GUnit.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160423/Exam20160423Problem04GUnit.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160508Problem01.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160508/Exam20160508Problem01.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160508Problem02.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160508/Exam20160508Problem02.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160508Problem03.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160508/Exam20160508Problem03.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/00ExamProblems/src/Exam20160508Problem04.java" afterPath="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160508/Exam20160508Problem04.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/02JavaSyntaxHW/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/06TextProcessingAndRegexAPIHW/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01.JavaFundamentals/JavaFundamentalsHomeworks/06TextProcessingAndRegexAPIHW/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+    </list>
+    <ignored path="Java.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Java" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Problem01PlayWithIntellijIdea.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/01.JavaFundamentals/01.Homeworks/01.IntroductionToJava/Problem01PlayWithIntellijIdea.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Java.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profiles_settings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compiler.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-425">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uiDesigner.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1165">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="756" column="13" selection-start-line="756" selection-start-column="13" selection-end-line="756" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exam20151115Problem03SRubiksMatrix.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151115/Exam20151115Problem03SRubiksMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01.JavaFundamentals/02.Exam Problems/20151004/Exam20151004Problem01DragonSharp.java" />
+        <option value="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151004/Exam20151004Problem01DragonSharp.java" />
+        <option value="$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151004/Problem01DragonSharp.java" />
+        <option value="$PROJECT_DIR$/src/01.JavaFundamentals/01.Homeworks/01.IntroductionToJava/Problem03AssignVariables.java" />
+        <option value="$PROJECT_DIR$/src/01.JavaFundamentals/01.Homeworks/01.IntroductionToJava/Problem01PlayWithIntellijIdea.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1374" />
+    <option name="height" value="748" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01.JavaFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01.JavaFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01.Homeworks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01.JavaFundamentals/01.Homeworks/01.IntroductionToJavaHW" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Java\src" />
+      <recent name="D:\Projects\Java\01.JavaFundamentals\01.Homeworks\06.TextProcessingAndRegexAPIHW" />
+      <recent name="D:\Projects\Java\01.JavaFundamentals\01.Homeworks\05.FunctionalProgrammingAndStreamAPIHW" />
+      <recent name="D:\Projects\Java\01.JavaFundamentals\01.Homeworks\04.JavaCollectionsBasicsHW" />
+      <recent name="D:\Projects\Java\01.JavaFundamentals\01.Homeworks\03.JavaStreamsHW" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Problem01PlayWithIntellijIdea">
+    <configuration default="false" name="Exam20151004Problem02DragonAccounting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Exam20151004Problem02DragonAccounting" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Problem03AssignVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Problem03AssignVariables" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exam20151004Problem01DragonSharp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Exam20151004Problem01DragonSharp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Problem01PlayWithIntellijIdea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Problem01PlayWithIntellijIdea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.Exam20151004Problem02DragonAccounting" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Problem03AssignVariables" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Exam20151004Problem01DragonSharp" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Problem01PlayWithIntellijIdea" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.Problem01PlayWithIntellijIdea" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Exam20151004Problem01DragonSharp" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Problem03AssignVariables" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Exam20151004Problem02DragonAccounting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce242f63-bf56-417b-98c6-b17f4bc3ed55" name="Default" comment="" />
+      <created>1478348481109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478348481109</updated>
+    </task>
+    <task id="LOCAL-00001" summary="folder structure changes">
+      <created>1478349831992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1478349831992</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1374" height="748" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="folder structure changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="folder structure changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/01.JavaFundamentals/01.Homeworks/01.IntroductionToJava/Problem01PlayWithIntellijIdea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/01.JavaFundamentals/01.Homeworks/01.IntroductionToJava/Problem02EmptyProject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/01.JavaFundamentals/01.Homeworks/01.IntroductionToJava/Problem03AssignVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.JavaFundamentals/01.Homeworks/00ExamProblems/src/Exam20151115Problem04LogParser.java" />
+    <entry file="file://$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151004/Exam20151004Problem04DragonArmy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151026/Exam20151026Problem02WeirdScript.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.JavaFundamentals/01.Homeworks/02.JavaSyntaxHW/02JavaSyntaxHW.iml" />
+    <entry file="file://$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151004/Exam20151004Problem02DragonAccounting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="37" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151026/Exam20151026Problem04LegendaryFarming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/01.JavaFundamentals/01.Homeworks/01.IntroductionToJava/Problem02EmptyProject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151004/Exam20151004Problem01DragonSharp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/01.JavaFundamentals/01.Homeworks/01.IntroductionToJava/Problem03AssignVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20160508/Exam20160508Problem01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/01.JavaFundamentals/01.Homeworks/01.IntroductionToJava/Problem01PlayWithIntellijIdea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1165">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="756" column="13" selection-start-line="756" selection-start-column="13" selection-end-line="756" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/01.JavaFundamentals/02.Exam Problems/20151115/Exam20151115Problem03SRubiksMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
